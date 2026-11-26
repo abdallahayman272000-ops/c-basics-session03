@@ -1,0 +1,16 @@
+D:\Games\C# rout\Assigment 2\Assigment 2\bin\Debug\net10.0\Assigment 2.exe
+D:\Games\C# rout\Assigment 2\Assigment 2\bin\Debug\net10.0\Assigment 2.deps.json
+D:\Games\C# rout\Assigment 2\Assigment 2\bin\Debug\net10.0\Assigment 2.runtimeconfig.json
+D:\Games\C# rout\Assigment 2\Assigment 2\bin\Debug\net10.0\Assigment 2.runtimeconfig.dev.json
+D:\Games\C# rout\Assigment 2\Assigment 2\bin\Debug\net10.0\Assigment 2.dll
+D:\Games\C# rout\Assigment 2\Assigment 2\bin\Debug\net10.0\Assigment 2.pdb
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigment 2.AssemblyInfoInputs.cache
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigment 2.AssemblyInfo.cs
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigment 2.csproj.CoreCompileInputs.cache
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigment 2.dll
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\refint\Assigment 2.dll
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigment 2.pdb
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigment 2.genruntimeconfig.cache
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\ref\Assigment 2.dll
+D:\Games\C# rout\Assigment 2\Assigment 2\obj\Debug\net10.0\Assigmen.0C0CC1CD.Up2Date
